@@ -63,6 +63,9 @@ a:hover{
  float: right;
  margin-left: 30px;
 }
+.img3{
+  height: 200px;
+}
 .desc{
   padding-top: 30px;
   clear: left;
